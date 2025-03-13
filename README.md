@@ -22,9 +22,10 @@ Hello! I'm **Anurag Shahare**, an experienced **Database Administrator, Data Ana
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+---
 ### 📬 Contact Me
 💼 [LinkedIn](https://www.linkedin.com/in/anuragshahare)  
-📧 anurag.shahare@gmail.com  
+📧 anuragshahare@gmail.com  
 📂 [Portfolio](https://github.com/anuragshahare31)
 
 ### 📈 GitHub Stats
