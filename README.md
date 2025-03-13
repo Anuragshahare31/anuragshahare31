@@ -1,5 +1,8 @@
-<h1>Hi 👋, I'm Anurag Shahare</h1>
-<p>A passionate Database Administrator, Data Analyst, and Cloud Engineer</p>
+## 🚀 Anurag Shahare - Database Administrator | Data Analyst | Cloud Engineer
+
+### 🌟 About Me
+Hello! I'm **Anurag Shahare**, an experienced **Database Administrator, Data Analyst, and Cloud Engineer** with expertise in designing, managing, and optimizing **databases, cloud infrastructure, and data analytics solutions**. Passionate about automation, performance tuning, and cloud security. 
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -19,10 +22,16 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/anuragshahare/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuragshahare31&show_icons=true&locale=en&layout=compact" alt="Anuragshahare31" /></p>
+### 📬 Contact Me
+💼 [LinkedIn](https://www.linkedin.com/in/anuragshahare)  
+📧 anurag.shahare@gmail.com  
+📂 [Portfolio](https://github.com/anuragshahare31)
 
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragshahare&show_icons=true&theme=radical)
+
+### 🏆 Certifications
+- AWS Certified Solutions Architect – Associate
 
 
 <picture>
